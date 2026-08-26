@@ -1,8 +1,0 @@
-Switch> "User mode" -> Enable
-Switch# "Priviledge Mode" -> You Allowed to make changed
-SWitch# "Configure Terminal" -> Enable the device to makke changes.
-Switch# "Show version" - Displays the device name, model and the softwsre running on.
-Switch# Show Running Cinfig -> Displays the running configuration of the device.
-Switch# Hostname SW-Attila-01 -> Changes the Switch hostname from "Switch" -> "SW-Attila-01"
-Switch# copy Running Config Startup Config -> Memorizing the changes to the memory.
-Switch# show interfaces status "shows the ports status on the switch"

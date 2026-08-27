@@ -1,5 +1,5 @@
 Jag har började bygga en infrestruktur i cisco packettracer.
-loggat i router och har bytat hostname för börja med.
+loggat i router och har bytat hostname att börja med.
 <img width="180" height="234" alt="Router diagram" src="https://github.com/user-attachments/assets/dce90b9c-a06c-4463-b87e-e46e8206236f" />
 
 

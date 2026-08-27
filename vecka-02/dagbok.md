@@ -10,3 +10,7 @@ Jag kopplade till router med konsolkabel och loggat in i router och har bytat ho
 
 <img width="438" height="165" alt="terminal router renaming" src="https://github.com/user-attachments/assets/6a4a4009-18cc-4df1-8d06-65d142e6e297" />
 
+
+
+
+<img width="638" height="190" alt="router geth0 enable" src="https://github.com/user-attachments/assets/dba997f9-d443-4d7e-8c6a-5313283d3acf" />

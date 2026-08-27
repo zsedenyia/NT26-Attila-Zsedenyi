@@ -37,15 +37,19 @@
 # 9 Nämn två saker "show version" berättar om en okänd enhet.
     Det visas enhet IOS version och running config också.
 
-#10 Vilken hastighet ska den serial port ha, och vad se du om den är fel?
+# 10 Vilken hastighet ska den serial port ha, och vad se du om den är fel?
     Hastighet är 9600.
 
-#11 svar är: port Gi 0/3 - Disabled. Porten är stängd av. 
+# 11 svar är: port Gi 0/3 - Disabled. Porten är stängd av. 
     configure Terminal -> interface Gigabitethernet0/3  -> no shut down -> end -> write'
 
-#12 En KKurskamrat visa dig det här och säger att switchen "inte ta emot kommandon".Vad här hant och vad säger du åt att göra?
+# 12 En KKurskamrat visa dig det här och säger att switchen "inte ta emot kommandon".Vad här hant och vad säger du åt att göra?
     Först måste byta till "priviledged mode". Switchen är i "user mode" enligt bilden.
 
-13# Fem meningar att förklara skillanden mellan running-config och startup-config.
-
+# 13 Fem meningar att förklara skillanden mellan running-config och startup-config.
+    1. Running-config sparas i ram minne. Startup-config sparas i nvram, det är en special minne var switchen bootar när det omstarta 
+    2. Switcharna funkar på layer-2, vilken menar de spara enhetrnas Mac addresser, inte IP-addresser, vilken är layer-3 och routrar gör det.
+    3. Switchar komihåg av enheternas mac-addresser.och när a dataram kommer från en dator till en adra på samma netvärk switch lära först sendare mac-address. 
+       
+    
     

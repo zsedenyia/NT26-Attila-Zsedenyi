@@ -3,3 +3,6 @@ Jag har testat python code men behövde organisera lite.
 
 
 
+So efter jag fått resultat.
+
+<img width="891" height="206" alt="Screenshot python day 2 resultat" src="https://github.com/user-attachments/assets/3165d7dd-4e31-46f0-a713-52b84836c29d" />

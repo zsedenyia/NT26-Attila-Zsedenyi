@@ -20,7 +20,7 @@ Jag konfigurerat ip address till båda gigabit ethernet och aktiverat DHCP serve
 
 Nu Gigabit Ethernet 0/0 konfigurerat med ip-address och dhcp pool. Också. "no shutdown" menar att porten ska stanna aktiverat. "do write memoory" menar at ändringar i router sparat i startup-memory (NVRAM).
 
-här är hur jag konfigurerat Gigabit ethernet 0/1.
+Här är hur jag konfigurerat Gigabit ethernet 0/1.
 
 <img width="648" height="467" alt="Screenshot From 2026-08-30 09-57-41" src="https://github.com/user-attachments/assets/6f7438b8-fd81-4b20-8c77-4638b7ce1245" />
 

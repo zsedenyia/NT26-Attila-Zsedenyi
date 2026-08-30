@@ -24,3 +24,6 @@ här är hur jag konfigurerat Gigabit ethernet 0/1.
 
 <img width="648" height="467" alt="Screenshot From 2026-08-30 09-57-41" src="https://github.com/user-attachments/assets/6f7438b8-fd81-4b20-8c77-4638b7ce1245" />
 
+Som nästa steg, jag koplade min dator till swiitchone och ändrat namn.
+
+<img width="449" height="271" alt="Screenshot From 2026-08-30 10-02-16" src="https://github.com/user-attachments/assets/640a5538-c5ea-4b4c-9654-e79340ffe518" />

@@ -13,3 +13,9 @@ Som nästa steg jag har skapat två switch och koplat till router.
 Gigabit ethernet från både switch till gigabit ethernet i router.
 
 <img width="906" height="225" alt="Screenshot From 2026-08-30 09-40-56" src="https://github.com/user-attachments/assets/181cc574-fae2-48b8-bddb-aa5a8554d89a" />
+
+Jag konfigurerat ip address till båda gigabit ethernet och aktiverat DHCP server funktion.
+
+<img width="648" height="558" alt="Screenshot From 2026-08-30 09-51-54" src="https://github.com/user-attachments/assets/8c88e65d-ad65-40c1-915b-58417ff77322" />
+
+

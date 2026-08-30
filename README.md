@@ -1,2 +1,2 @@
 # JensenNVT26
-# Netwekstekniker skol.
+# Nätverk tekniker.

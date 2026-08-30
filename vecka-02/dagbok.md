@@ -1,16 +1,6 @@
 Jag har började bygga en infrestruktur i cisco packettracer.
-Jag kopplade till router med konsolkabel och loggat in i router och har bytat hostname att börja med.
+Skapat en router och koplat till med en dator via konsolkabel.
+
+<img width="432" height="117" alt="Screenshot From 2026-08-30 09-09-35" src="https://github.com/user-attachments/assets/27d4cd83-29f8-4f0f-8dc5-712db294af88" />
 
 
-
-<img width="180" height="234" alt="Router diagram" src="https://github.com/user-attachments/assets/dce90b9c-a06c-4463-b87e-e46e8206236f" />
-
-
-
-
-<img width="438" height="165" alt="terminal router renaming" src="https://github.com/user-attachments/assets/6a4a4009-18cc-4df1-8d06-65d142e6e297" />
-
-
-
-
-<img width="638" height="190" alt="router geth0 enable" src="https://github.com/user-attachments/assets/dba997f9-d443-4d7e-8c6a-5313283d3acf" />

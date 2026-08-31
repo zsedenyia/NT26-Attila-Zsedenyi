@@ -28,3 +28,9 @@ Som nästa steg, jag koplade min dator till swiitchone och ändrat namn och spar
 
 <img width="449" height="271" alt="Screenshot From 2026-08-30 10-02-16" src="https://github.com/user-attachments/assets/640a5538-c5ea-4b4c-9654-e79340ffe518" />
 
+
+
+
+Jag också fixat wireshark på min ubuntu dator och inspelat en arp-request. 
+
+<img width="1118" height="190" alt="Screenshot From 2026-08-31 10-15-15" src="https://github.com/user-attachments/assets/5904e093-cce1-4cd9-8b89-cb9ab7904a62" />

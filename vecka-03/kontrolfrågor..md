@@ -39,3 +39,10 @@
      
 # 12.Räkna ut samma sak för 10.0.0.6/30. Hur många enheter får plats?
      
+# 13. Nordviks lager i Borås har fått 192.168.2.0/24 och behöver tre nät: lager, trådlöst gäst och drift. Föreslå en uppdelning i /26 och skriv ut nät, broadcast och intervall för varje.
+     Lager     Network-address 192.168.2.0     Deafult-Gateway 192.168.2.1    Intervall: 192.168.2.2 - 62          Broadcast: 192.168.2.63
+     Gäst      Network-address 192.168.2.64    Deafult-Gateway 192.168.2.65    Intervall: 192.168.2.66 - 126       Broadcast: 192.168.2.127   
+     drift     Network-address 192.168.2.128   Deafult-Gateway 192.168.2.129   Intervall: 192.168.2.130 - 190      Broadcast: 192.168.2.191     
+     Extra     Network-address 192.168.2.192   Deafult-Gateway 192.168.2.193   Intervall: 192.168.2.194 - 254      Broadcast: 192.168.2.255
+
+# 14 

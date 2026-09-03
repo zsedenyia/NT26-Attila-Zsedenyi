@@ -1,0 +1,5 @@
+Denna vecka vi lära subnetting och jag försöker att skapa en infrastruktur i Cisco packet tracer.
+
+Började med en router och fyra switchar. Alla switchar simulera en "avdelning" i en företag. Att konfigurera router, använda jag en laptop kopplat med konsol kabel. 
+Det bli 4 subnet så /30 CIDR, subnet mask är 255.255.255.192
+

@@ -6,4 +6,5 @@ Tiisdag eftermiddag jag arbetat på kontrolfrågor.
 Onsdag, Jag började att jobba på kontrollfrågor och kollat up checkpoint också.
 
 Torsdag, efter lektion jag fixat /26 subnet setup hemma.
+du kan kolla här:    https://github.com/zsedenyia/NT26-Attila-Zsedenyi/blob/main/vecka-03/subnet%20.192.md
 

@@ -80,5 +80,25 @@ PC 6
 <img width="574" height="489" alt="Screenshot From 2026-09-03 21-05-05" src="https://github.com/user-attachments/assets/c3ca73af-877a-4131-acfd-81ad43688970" />
 
 
+Bonus: 
 
+Jag har kopplat en access-punkt till guest nätverk och konfigurerat SSID och Lösenord. Efter, jag kopplat med en laptop till access-punkten och fått Ip-address direkt från DHCP-server.
+
+
+<img width="1531" height="639" alt="Screenshot From 2026-09-03 21-59-37" src="https://github.com/user-attachments/assets/1e7cf2d5-e55b-453d-9089-e765a00b9bd8" />
+
+
+Setting av Access-punkt.
+
+
+<img width="1045" height="639" alt="Screenshot From 2026-09-03 22-01-31" src="https://github.com/user-attachments/assets/fc2b2bcf-77ef-4f28-a871-12dea4cc8468" />
+
+
+Och Auto-IP address via DHCP
+
+
+<img width="1045" height="565" alt="Screenshot From 2026-09-03 22-03-16" src="https://github.com/user-attachments/assets/92573c4a-8ce1-4b82-b07f-f28c05ac05f6" />
+
+
+Finished.
 

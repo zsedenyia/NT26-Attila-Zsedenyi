@@ -3,4 +3,7 @@ Måndag jag praktiserat router setup med dhcp och läst kapitel 3 och började a
 Tisdag förmiddag dokumenterat dhcp server "setup" och testa om det funkar. Dokumentation ligger i vecka-02/Router-setup-med-dhcp.md
 Tiisdag eftermiddag jag arbetat på kontrolfrågor.
 
+Onsdag, Jag började att jobba på kontrollfrågor och kollat up checkpoint också.
+
+Torsdag, efter lektion jag fixat /26 subnet setup hemma.
 

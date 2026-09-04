@@ -1,7 +1,7 @@
 Denna vecka vi lära subnetting och jag försöker att skapa en infrastruktur i Cisco packet tracer.
 
 Började med en router och fyra switchar. Alla switchar simulera en "avdelning" i en företag. Att konfigurera router, använda jag en laptop kopplat med konsol kabel. 
-Det bli 4 subnet så /30 CIDR, subnet mask är 255.255.255.192. Blocksteget är 64. 0-64-128-192.
+Det bli 4 subnet så /26 CIDR, subnet mask är 255.255.255.192. Blocksteget är 64. 0-64-128-192.
 
 <img width="1185" height="354" alt="Screenshot From 2026-09-03 19-22-18" src="https://github.com/user-attachments/assets/de327bfc-e565-4056-881f-767d6dcd7c70" />
 
@@ -12,7 +12,7 @@ Jag använda en Cisco IR8340 Router och fyra Cisco 2960 switch. Min nätverk pla
 <img width="834" height="226" alt="Screenshot From 2026-09-03 19-23-47" src="https://github.com/user-attachments/assets/4dc6d4a6-df51-4eac-b917-6205eb3aa79a" />
 
 
-Jag ska har DHCP server på varje subnet, men första 20 address är reserverat till static enheter. T.ex: skrivare, server, Nas... etc.
+Jag ska har DHCP server på varje subnet, men första 18 addresser är reserverat till static enheter. T.ex: skrivare, server, Nas... etc.
 
 
 <img width="408" height="159" alt="Screenshot From 2026-09-03 21-08-23" src="https://github.com/user-attachments/assets/5e4dc5ce-cb11-4d9a-8cd8-a14207d8094e" />

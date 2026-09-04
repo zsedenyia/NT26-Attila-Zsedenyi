@@ -99,6 +99,16 @@ Och Auto-IP address via DHCP
 
 <img width="1045" height="565" alt="Screenshot From 2026-09-03 22-03-16" src="https://github.com/user-attachments/assets/92573c4a-8ce1-4b82-b07f-f28c05ac05f6" />
 
+Kontrollera att alla port fungerar.
+Show ip interface brief.
+
+
+<img width="543" height="98" alt="Screenshot From 2026-09-04 09-44-58" src="https://github.com/user-attachments/assets/ea95c021-7028-47a7-b96d-fb1b9d4cb8f4" />
+
+Kolla om DHCP bindings.
+
+
+<img width="512" height="172" alt="Screenshot From 2026-09-04 09-48-55" src="https://github.com/user-attachments/assets/f274da89-a039-4430-bfff-8262c662c847" />
 
 Finished.
 

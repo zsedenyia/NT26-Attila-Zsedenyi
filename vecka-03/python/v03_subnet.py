@@ -1,7 +1,7 @@
 import ipaddress
 
 # Byt ut mot det nat du vill rakna pa.
-text = "192.168.1.64/26"
+text = "10.0.0.6/30"
 
 # Modulen ipaddress gor rakningen at dig.
 net = ipaddress.ip_network(text, strict=False)

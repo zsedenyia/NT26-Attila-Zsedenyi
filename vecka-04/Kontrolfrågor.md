@@ -29,4 +29,4 @@
       Cisco router ska log en error också.
 
 # 8.  Vad förhindrar STP, och hur gör den det?
-      
+      Spanning tree protocol, stängar av väger så att rammar inte gå runt för evigt.

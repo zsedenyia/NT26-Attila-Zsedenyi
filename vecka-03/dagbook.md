@@ -10,3 +10,5 @@ Torsdag, efter lektion jag fixat /26 subnet setup hemma.
 
 Kolla här:    https://github.com/zsedenyia/NT26-Attila-Zsedenyi/blob/main/vecka-03/subnet%20.192.md
 
+
+Söndag jag gjörde koens python, men det var lite svårt. Jag har frågat ai att berätta några svar. Jag förstått inte.

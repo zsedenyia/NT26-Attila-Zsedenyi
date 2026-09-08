@@ -38,6 +38,7 @@
      4. Enheterna mellan 193-254 - 62 stycken
      
 # 12.Räkna ut samma sak för 10.0.0.6/30. Hur många enheter får plats?
+
      
 # 13. Nordviks lager i Borås har fått 192.168.2.0/24 och behöver tre nät: lager, trådlöst gäst och drift. Föreslå en uppdelning i /26 och skriv ut nät, broadcast och intervall för varje.
      Lager     Network-address 192.168.2.0     Deafult-Gateway 192.168.2.1     Intervall: 192.168.2.2 - 62         Broadcast: 192.168.2.63

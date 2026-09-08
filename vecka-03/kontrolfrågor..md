@@ -50,4 +50,18 @@
      drift     Network-address 192.168.2.128   Deafult-Gateway 192.168.2.129   Intervall: 192.168.2.130 - 190      Broadcast: 192.168.2.191     
      Extra     Network-address 192.168.2.192   Deafult-Gateway 192.168.2.193   Intervall: 192.168.2.194 - 254      Broadcast: 192.168.2.255
 
-# 14 
+# 14. Här är ett utdrag från en dator som inte kommer ut på internet, men som når filservern på 192.168.1.10. Vad är fel?
+
+
+
+     <img width="997" height="185" alt="Screenshot From 2026-09-08 09-08-43" src="https://github.com/user-attachments/assets/7f7f951d-2817-4bf7-8065-5a7448ff0ac6" />
+
+
+     
+
+     Det är en /26 subnät. Du kan see från subnät mask address. Filserver och dator är i första subnet vilken ligger mellan 192.168.1.1. - 63.
+     Men gatewayen är peka mot nästa subnet, vilken börjar med .64. Och därför datoren kan inte kom ut till internet.
+
+# 15. Här är ett utdrag från routern. En student säger att DHCP inte fungerar, för hens dator får ingen adress. Vad frågar du efter härnäst?
+
+     

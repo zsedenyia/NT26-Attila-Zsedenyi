@@ -28,4 +28,5 @@
       Det ska inte funkar 100% korrekt och kan ledas till data läkage. Resten av nätverk i trunk ska funkar bra. 
       Cisco router ska log en error också.
 
-# 8.  
+# 8.  Vad förhindrar STP, och hur gör den det?
+      

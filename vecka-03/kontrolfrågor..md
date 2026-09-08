@@ -38,6 +38,10 @@
      4. Enheterna mellan 193-254 - 62 stycken
      
 # 12.Räkna ut samma sak för 10.0.0.6/30. Hur många enheter får plats?
+     1. /30 är en .252 subnet mask-
+     2. normalt det finns 256 addresser. Minus 252 = 4
+     3. Network address : 10.0.0.4, Broadcast address 10.0.0.7
+     4. Usable address: 10.0.0.5, 10.0.0.6
 
      
 # 13. Nordviks lager i Borås har fått 192.168.2.0/24 och behöver tre nät: lager, trådlöst gäst och drift. Föreslå en uppdelning i /26 och skriv ut nät, broadcast och intervall för varje.
